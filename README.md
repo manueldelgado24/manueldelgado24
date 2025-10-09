@@ -57,7 +57,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 <a href="https://www.instagram.com/manuel.d_">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 
-<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
+<a href="https://github.com/manueldelgado24">
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 
 <a href="mailto:ossinsight@pingcap.com" target="_blank">
