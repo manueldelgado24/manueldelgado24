@@ -68,18 +68,18 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 <td width="50%">
 <h3 align="center">Sistema Presupuestario para Año Escolar</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-  <img src="https://imgur.com/gallery/portada-5fCGrEm#aZpeuof" width="400" alt="Sistema Presupuestario">
+<a href="https://github.com/manueldelgado24" target="_blank">
+  <img src="https://imgur.com/aZpeuof.png" width="400" alt="Sistema Presupuestario">
 </a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/manueldelgado24" target="_blank">
+  <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/sipXF-_NSl0" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+  <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Recorrido sencillo de los módulos y funciones del sistema que desarrolle en las practicas profesionales en una institución académica. Se llevó acabo <strong>utilizando Spring con Java</strong>, JavaScript con React y JWT</p>
 </div>
                                                                                       
 </td>
