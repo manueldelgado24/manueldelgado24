@@ -55,20 +55,18 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 </a>
 
 <a href="https://www.instagram.com/manuel.d_">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
 
 <a href="https://github.com/manueldelgado24">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 
-<a href="mailto:ossinsight@pingcap.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-
-<div>
-<h2>Github stats:</h2> 
+## Github stats
 
 [![](https://github-readme-stats.vercel.app/api?username=manueldelgado24&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/manueldelgado24)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=manueldelgado24&theme=material-palenight)](https://github.com/manueldelgado24)
-</div>
+
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
