@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Manuel Delgado <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmlrdzJ0MGJka3NuYng2ZXpoMmpxZjMxOG9kdXlrODl5Mm82cWVkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
@@ -50,11 +50,11 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
 ## Chech out my Social Media
 
-<a href="https://twitter.com/OSSInsight" target="_blank">
+<a href="www.linkedin.com/in/manueldelgado7">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/manuel.d_" target="_blank">
+<a href="https://www.instagram.com/manuel.d_">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 
 <a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
@@ -62,3 +62,15 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
 <a href="mailto:ossinsight@pingcap.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+
+<div>
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=manueldelgado24&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/manueldelgado24)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=manueldelgado24&theme=material-palenight)](https://github.com/manueldelgado24)
+</div>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
