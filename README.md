@@ -4,7 +4,7 @@
 
 🚀***About me***
 
-Systems Engineer with a strong focus on backend software development. Proficient in Java and experienced in creating robust and scalable solutions using the Spring Framework. Proven experience in designing RESTful APIs and integrating with SQL databases. Knowledgeable in React for frontend development. I am proactive, a problem-solver, and a collaborative team player, constantly excited to learn and apply new technologies to solve challenges.
+Systems Engineer with a strong focus on backend software development. Proficient in **Java** and experienced in creating robust and scalable solutions using the **Spring Framework**. Proven experience in designing RESTful APIs and integrating with SQL databases. Knowledgeable in React for frontend development. I am proactive, a problem-solver, and a collaborative team player, constantly excited to learn and apply new technologies to solve challenges.
 * **I am interested in developing technological solutions with Java**
 - 🌱 I’m currently learning ...
   - Microservices
