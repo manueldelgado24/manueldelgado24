@@ -4,14 +4,14 @@
 
 🚀***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
+Systems Engineer with a strong focus on backend software development. Proficient in Java and experienced in creating robust and scalable solutions using the Spring Framework. Proven experience in designing RESTful APIs and integrating with SQL databases. Knowledgeable in React for frontend development. I am proactive, a problem-solver, and a collaborative team player, constantly excited to learn and apply new technologies to solve challenges.
+* **I am interested in developing technological solutions with Java**
 - 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+  - Microservices
+  - Angular
+  - Kafka
+  - Cloud
+- ✔ Ask me about anything, I’m happy to help with what I can.<br>
 - 📫 Reach out to me at: md1620ds@gmail.com
 
 ## My Skills Include
